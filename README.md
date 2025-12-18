@@ -8,6 +8,11 @@ my-business-web
 ├── about.html 
 ├── services.html
 ├── contact.html
+├── images/
+│   ├── home.png
+│   ├── about.png
+│   ├── services.png
+│   ├── contact.png
 └── README.md 
 ```
 ## 🔗 Page Links
@@ -17,5 +22,10 @@ my-business-web
 - [Services](services.html)
 - [Contact](contact.html)
 
+![หน้าแรก](images/home.png)
 
+![เกียวกับ](images/about.png)
 
+![บริการ](images/services.png)
+
+![ติดต่อ](images/contact.png)
